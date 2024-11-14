@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Kelompok Cemara
+          Learn React
         </a>
       </header>
     </div>
